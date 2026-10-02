@@ -1,5 +1,23 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:2563EB&section=header&text=Musfiquar%20Rahman%20Shiab&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Team%20Lead%20%E2%80%A2%206%2B%20Years%20of%20Experience&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Musfiquar Rahman Shiab - Software Engineer, Team Lead, 6+ Years of Experience" />
+
+# Hi 👋, I'm Musfiquar Rahman Shiab (Shihab)
+
+### Full-Stack & Mobile App Developer · Team Lead · Python · Django · React · Next.js · Flutter · React Native · Computer Vision · Machine Learning
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=720&height=45&lines=Full-Stack+Developer+%C2%B7+Team+Lead;Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Next.js;Mobile+Apps+%C2%B7+Flutter+%C2%B7+React+Native;Automation+%C2%B7+GUI+Apps+%C2%B7+Computer+Vision;Diving+Deep+into+Machine+Learning+%26+Deep+Learning;Exploring+LLMs%2C+RAG+%26+AI+Agents;6%2B+Years+of+Building+Software;Programmers+Never+Sleep" alt="Full-Stack Developer, Team Lead, Mobile Apps with Flutter and React Native, Automation, GUI Apps, Computer Vision, Machine Learning, Deep Learning, LLMs, RAG and AI Agents" />
+
+<p>
+  <a href="https://www.linkedin.com/in/musfiquar-rahman-shiab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8%2BPC9zdmc%2B" alt="Musfiquar Rahman Shiab on LinkedIn" /></a>
+  <a href="https://www.facebook.com/musfiquer.rahman.2004"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Musfiquar Rahman Shiab on Facebook" /></a>
+  <a href="https://github.com/shihab2004?tab=followers"><img src="https://img.shields.io/github/followers/shihab2004?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=24292F" alt="GitHub followers of shihab2004" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shihab2004&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="Profile views of shihab2004" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA043?style=for-the-badge" alt="Open to new opportunities" />
+</p>
+
+</div>
+
 ## 👨‍💻 About Me
 
 I'm a **Full-Stack Software Engineer and Team Lead** with **6+ years of software development experience**. I started my programming journey in my teenage years (2020). I build **web applications with Python, Django, React and Next.js**, **cross-platform mobile apps with Flutter and React Native**, **automation bots**, **desktop GUI apps** and **computer vision systems** with OpenCV. Now I'm diving deep into **Machine Learning, Deep Learning and Generative AI (LLMs, RAG, AI agents)** to unlock new possibilities.
@@ -91,4 +109,3 @@ I'm a **Full-Stack Software Engineer and Team Lead** with **6+ years of software
 I'm open to collaborations and new opportunities in **full-stack web development, automation, computer vision and AI/ML**. You can reach me on [LinkedIn (Musfiquar Rahman Shiab)](https://www.linkedin.com/in/musfiquar-rahman-shiab/) or [Facebook](https://www.facebook.com/musfiquer.rahman.2004).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,50:1E3A8A,100:2563EB&section=footer" width="100%" alt="" />
-
